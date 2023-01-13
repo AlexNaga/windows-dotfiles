@@ -1,0 +1,7 @@
+alias checkhash="~/private/scripts/check-hash/check-hash.mjs"
+alias lsa="ls -la"
+#alias ncu="npx npm-check-updates"
+alias rm="trash"
+alias rmn="~/private/scripts/remove-node-modules.sh"
+alias rmnp="~/private/scripts/remove-node-modules.sh && ~/private/scripts/remove-package-json.sh"
+alias yadmupdate="~/private/scripts/yadm-update.sh"
